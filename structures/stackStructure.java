@@ -19,3 +19,5 @@ public class stackStructure {
 
     }
 }
+
+//Next: Stack implementaion using an array
