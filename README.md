@@ -4,7 +4,8 @@
 ### Structures, ADTs, and Applications
 ---
 1. **Stack**: A stack is a linear data structure that follows the Last In First Out (LIFO) principle.
-- **ADTs**: 
+- **ADT**: Last-in, First-out
+- **Core operations**:
   - **Push**: Adds an element to the top of the stack.
   - **Pop**: Removes and returns the top element of the stack.
   - **Peek**: Returns the top element without removing it.
